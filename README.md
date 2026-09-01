@@ -3,6 +3,7 @@
 여백 앱의 개인정보 처리방침을 제공하는 정적 웹페이지입니다.
 
 - 공개 주소: <https://noeyhoj.github.io/yeobaek-privacy-policy/>
+- 고객지원: <https://noeyhoj.github.io/yeobaek-privacy-policy/support.html>
 - 개인정보 문의: <dryzero0@gmail.com>
 - 시행일: 2026-09-01
 
